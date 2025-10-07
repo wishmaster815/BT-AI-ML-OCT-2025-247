@@ -1,6 +1,5 @@
-# AI/ML Internship at Badkul Technologies
-
-This repository contains projects and exercises completed during my 1-month AI/ML internship at **Badkul Technologies**. It showcases my learning, experiments, and hands-on work in machine learning and data science.
+# AI/ML Internship
+This repository contains projects and exercises practiced during my 1-month AI/ML internship at **Badkul Technologies**. It showcases my learning, experiments, and hands-on work in machine learning and data science.
 
 ## Contents
 
